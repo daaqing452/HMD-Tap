@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMD Tap", "HMD Tap.csproj", "{88D42525-0CD3-6C03-EA9C-E80032EC6E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMD Tap.Editor", "HMD Tap.Editor.csproj", "{E938F55A-F4F7-337E-B0A5-87342D208EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D42525-0CD3-6C03-EA9C-E80032EC6E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D42525-0CD3-6C03-EA9C-E80032EC6E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D42525-0CD3-6C03-EA9C-E80032EC6E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D42525-0CD3-6C03-EA9C-E80032EC6E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E938F55A-F4F7-337E-B0A5-87342D208EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E938F55A-F4F7-337E-B0A5-87342D208EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E938F55A-F4F7-337E-B0A5-87342D208EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E938F55A-F4F7-337E-B0A5-87342D208EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

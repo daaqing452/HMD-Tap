@@ -1,0 +1,9 @@
+/.vs/*
+.DS_Store
+/Analysis/data/*
+/Analysis/figures/*
+/Analysis/__pycache__/*
+/Analysis/*.pyc
+/Analysis/classifier
+/Analysis/detector
+/Analysis/.DS_Store

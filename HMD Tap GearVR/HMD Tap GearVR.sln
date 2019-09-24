@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMD Tap GearVR", "HMD Tap GearVR.csproj", "{26995068-3BBA-5DAD-C59D-5518B2129926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMD Tap GearVR.Editor", "HMD Tap GearVR.Editor.csproj", "{8F0A6F13-DCEE-464F-F092-A4B834622212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26995068-3BBA-5DAD-C59D-5518B2129926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26995068-3BBA-5DAD-C59D-5518B2129926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26995068-3BBA-5DAD-C59D-5518B2129926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26995068-3BBA-5DAD-C59D-5518B2129926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0A6F13-DCEE-464F-F092-A4B834622212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0A6F13-DCEE-464F-F092-A4B834622212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0A6F13-DCEE-464F-F092-A4B834622212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0A6F13-DCEE-464F-F092-A4B834622212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
